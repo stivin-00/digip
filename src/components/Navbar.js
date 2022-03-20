@@ -13,7 +13,7 @@ const Navbar = () => {
         <div className="nav-menu">service</div>
         <div className="nav-menu">insight</div>
         <div className="nav-menu">about us</div>
-        <div className="nav-menu">contact</div>
+        <div className="nav-menu">contact us</div>
       </div>
     </div>
   );
